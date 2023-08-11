@@ -2,6 +2,8 @@
 Animação de movimentação feito com Javascript
 
 ## Preview :
-<video src=".github/preview.mp4" controls loop autoplay title="Title"></video>
+<video width="320" height="240" controls loop autoplay>
+  <source src=".github/preview.mp4" type="video/mp4">
+</video>
 
 ##
